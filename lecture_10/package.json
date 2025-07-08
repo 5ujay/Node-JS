@@ -1,0 +1,19 @@
+{
+  "name": "lecture_10",
+  "version": "1.0.0",
+  "description": "image upload in nodejs ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sujay pagam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "dotenv": "^17.1.0",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.2",
+    "multer": "^2.0.1",
+    "nodemon": "^3.1.10"
+  }
+}
