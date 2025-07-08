@@ -1,0 +1,15 @@
+{
+  "name": "lecture3",
+  "version": "1.0.0",
+  "description": "mongodb and nodejs and all connection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sujay pagam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}
